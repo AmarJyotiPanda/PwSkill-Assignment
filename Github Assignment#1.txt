@@ -1,0 +1,15 @@
+1->Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+
+2->Version control system is an important software development tool for tracking and managing changes made to code and other files. It is closely related to source code management. 
+
+3->GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
+
+4->Some popular Git hosting services are Bitbucket,GitLab,Perforce
+
+5->Types of version control systems are Local VCS , Distributed VCS and Central VCS .
+
+6->GitHub allows developers to collaborate more effectively and efficiently via tools that are easy to understandable and easy to track the coding changes .
+
+7->A Git repository, also known as a repo, is a collection of files and directories that are tracked and managed by Git, a version control system. Git repositories are used to store and track changes to code, documentation, and other files over time.
+
+8->To create a new repo, you'll use the git init command.
