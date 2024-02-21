@@ -1,0 +1,15 @@
+  1-> A computer is an electronic device that manipulates information, or data. It has the ability to store, retrieve, and process data.
+
+  2-> RAM stands for Random Access Memory and it  is one of the most important parts of your computer. It provides high-speed, short-term memory for your computer’s CPU.
+
+  3-> In Computer generally data store in Hard Disk Drive.
+  
+  4-> Keyboard
+
+  5-> Some Output Devices name are  monitors, printers, speakers, headphones, projectors.
+
+  6-> Mouse
+
+  7-> Machine Level Language 
+
+  8-> Some input devices are the keyboard, mouse, and touch screen.
