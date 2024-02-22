@@ -1,0 +1,10 @@
+1->git --version
+2->git init
+3-> git config --global user.name"Amar"
+    git config --global user.email"amarjyotipanda70@gmail.com"
+
+4->git add <file_name> 
+5->git rm --cached <file_name>
+6->git commit -m "First Commit"
+7->git push -u remote-name branch-name
+8->Git clone copies all files to the local machine, while git pull only copies the    modified files to the local machine.
