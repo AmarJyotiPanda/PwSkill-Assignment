@@ -1,0 +1,6 @@
+1->A programming language is a language that tells computers how to do things.
+2->To Communicate with Computer we need programming language 
+3->Platform independent,robust,Simple,Secure, Multithreaded,Compiled and  interpreted.
+4->In Java, an object is a member of a class. An object is an instance of a class    and it has all the properties and behaviors of that class.
+5-> class in Java is a logical template to create objects that share common   properties and methods.
+6->The main() method is the entry point for any Java application. It is the first method that is called when a Java program is executed. The main() method is always declared as public static void main(String[] args).
