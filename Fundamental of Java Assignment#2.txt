@@ -1,0 +1,62 @@
+1-> In Statically typed memory for the variable is allocated during the Compile time and in Dynamically typed memory of the variable is allocated during the run time .
+2->A variable in Java is a data container that stores data values during Java program execution.
+3->Assigning a integer value in variable 
+   int a=10;
+4->Primitive data types in java are boolean , string , char and integer;
+5->Identifiers in Java are a sequence of characters to identify something in a program. They are names given to a class, variable, package, method, or interface and allow the programmer to refer to the specific item from any place in the program.
+6->There are multiple types of operators in Java,
+ Arithmetic Operators
+ Unary Operators
+ Assignment Operator
+ Relational Operators
+ Logical Operators
+ Ternary Operator
+ Bitwise Operators
+7->The Increment operator (++) as its name suggests, increases the value of a variable by one, while the Decrement operator (--) reduces the value of a variable by one. Generally we have two types of Incerment A: Pre Increment B: Post Increment and  two types of Decrement A:Pre Drecement B:Post Decrement 
+
+  Example : class Main {
+
+                public static void main(String[] args) {
+
+                    int a = 5, int b = 6;
+
+                    int c = a++;
+                    int d = ++a;
+                    int e = b—-;
+                    int f = –b;
+                    System.out.println(c);
+
+                    System.out.println(d);
+
+                    System.out.println(e);
+
+                    System.out.println(f);
+
+                }
+   
+                      }
+
+
+
+             Output:-> 5
+                       7
+                       6
+                       4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
