@@ -1,0 +1,59 @@
+1->There are three types of the conditional operator in Java:
+   Conditional AND
+   Conditional OR
+   Ternary Operator
+2->Based on the number of operands, Java operators are classified into three types:    unary operators, binary operators, and ternary operators.
+3->The switch statement is a control flow statement that allows you to execute a    block of code depending on the value of a variable. It is similar to the if-else    statement, but it is more efficient for multiple conditions.
+4->The priority levels of arithmetic operators in Java are as follows, from highest    to lowest:
+   A>Parentheses
+   B>Exponents
+   C>Multiplication and Division (from left to right)
+   D>Addition and Subtraction (from left to right)
+5->Conditional statements in Java are used to control the flow of execution of a    program based on certain conditions. There are three types of conditional    statements in Java:
+   1>If statement:
+     The if statement allows you to execute a block of code only if a specified      condition is true.
+   2>Else statement:
+     The else statement allows you to execute a block of code if the condition in      the if statement is false.
+   3>Switch statement:
+     The switch statement allows you to execute a block of code based on the value      of a variable.
+
+6->if(condition){  
+    //code if condition is true  
+    }
+    else{  
+    //code if condition is false  
+  
+   }  
+
+7->Three types of Iterative statements are 
+   A>for loop
+   B>while loop
+   C>do-while loop
+8->For loop in Java iterates a given set of statements multiple times. The Java    while loop executes a set of instructions until a boolean condition is met. The    do-while loop executes a set of statements at least once, even if the condition    is not met.
+9-> public class PrintNumbers {
+  public static void main(String[] args) {
+    int number = 1;
+
+    while (number <= 10) {
+      
+      System.out.println(number);
+
+      number++;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
