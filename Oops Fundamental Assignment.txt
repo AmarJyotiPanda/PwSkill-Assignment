@@ -1,0 +1,16 @@
+1-> To create an object in Java, you can use the new keyword. The syntax is:
+     
+         Ex:- ClassName objectName = new ClassName();
+
+2->For Creation of an object for a class we use the new keyword .
+
+3->There are three types of Variable in java 
+    a> Local
+    b> Instance
+    c> Static
+
+4->The main difference between instance variable and local variable is that instance    variable is a variable that is declared in a class but outside a method, while a    local variable is a variable declared within a method or a constructor. 
+
+5->Local variables are allocated in the stack memory, while instance variables are   allocated in the heap memory.
+
+6->Method overloading in Java means having two or more methods in a  class with the same name and different arguments (or parameters). It can be with a  different number of arguments or different data types of arguments.
